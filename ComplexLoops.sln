@@ -5,15 +5,15 @@ VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseNumbers", "ReverseNumbers\ReverseNumbers.csproj", "{68295A55-1D06-4137-B9AD-31CDA5F87ADB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowersOfTwo", "PowersOfTwo\PowersOfTwo.csproj", "{C5EBE576-A5A3-4B9C-B19C-E0A6C4AFF2EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PowersOfTwo", "PowersOfTwo\PowersOfTwo.csproj", "{C5EBE576-A5A3-4B9C-B19C-E0A6C4AFF2EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenPowersOfTwo", "EvenPowersOfTwo\EvenPowersOfTwo.csproj", "{858F9AF6-E7ED-447A-9440-01EC2B18E9CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvenPowersOfTwo", "EvenPowersOfTwo\EvenPowersOfTwo.csproj", "{858F9AF6-E7ED-447A-9440-01EC2B18E9CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceOfNumbers", "SequenceOfNumbers\SequenceOfNumbers.csproj", "{928330C4-5F74-46F1-BF21-813D44BFEED9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SequenceOfNumbers", "SequenceOfNumbers\SequenceOfNumbers.csproj", "{928330C4-5F74-46F1-BF21-813D44BFEED9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberInRange", "NumberInRange\NumberInRange.csproj", "{1EA65CB2-F9DB-4AE0-9B4A-87D1FDE6DBBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberInRange", "NumberInRange\NumberInRange.csproj", "{1EA65CB2-F9DB-4AE0-9B4A-87D1FDE6DBBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatestCommonDivision", "GreatestCommonDivision\GreatestCommonDivision.csproj", "{E5645D55-84B6-4D02-A239-00FB64FF4BC0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digits", "Digits\Digits.csproj", "{62DAFAEB-1E22-44EF-8646-AB351D402217}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +41,10 @@ Global
 		{1EA65CB2-F9DB-4AE0-9B4A-87D1FDE6DBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EA65CB2-F9DB-4AE0-9B4A-87D1FDE6DBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EA65CB2-F9DB-4AE0-9B4A-87D1FDE6DBBA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E5645D55-84B6-4D02-A239-00FB64FF4BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E5645D55-84B6-4D02-A239-00FB64FF4BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E5645D55-84B6-4D02-A239-00FB64FF4BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E5645D55-84B6-4D02-A239-00FB64FF4BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62DAFAEB-1E22-44EF-8646-AB351D402217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62DAFAEB-1E22-44EF-8646-AB351D402217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62DAFAEB-1E22-44EF-8646-AB351D402217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DAFAEB-1E22-44EF-8646-AB351D402217}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
