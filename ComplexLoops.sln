@@ -13,7 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SequenceOfNumbers", "Sequen
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberInRange", "NumberInRange\NumberInRange.csproj", "{1EA65CB2-F9DB-4AE0-9B4A-87D1FDE6DBBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digits", "Digits\Digits.csproj", "{62DAFAEB-1E22-44EF-8646-AB351D402217}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Digits", "Digits\Digits.csproj", "{62DAFAEB-1E22-44EF-8646-AB351D402217}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{8F49FBB6-C6C0-4024-A85A-7E350EE8AC88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DumbPasswords", "DumbPasswords\DumbPasswords.csproj", "{E16E465B-06A6-4285-9D76-2DB6067FFEB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{62DAFAEB-1E22-44EF-8646-AB351D402217}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62DAFAEB-1E22-44EF-8646-AB351D402217}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62DAFAEB-1E22-44EF-8646-AB351D402217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F49FBB6-C6C0-4024-A85A-7E350EE8AC88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F49FBB6-C6C0-4024-A85A-7E350EE8AC88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F49FBB6-C6C0-4024-A85A-7E350EE8AC88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F49FBB6-C6C0-4024-A85A-7E350EE8AC88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E16E465B-06A6-4285-9D76-2DB6067FFEB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E16E465B-06A6-4285-9D76-2DB6067FFEB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E16E465B-06A6-4285-9D76-2DB6067FFEB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E16E465B-06A6-4285-9D76-2DB6067FFEB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
